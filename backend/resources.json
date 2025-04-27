@@ -1,0 +1,557 @@
+[
+    {
+        "name": "Viet Tu Te Charity",
+        "category": "food",
+        "address": "765 Story Road, San Jose, CA 95122",
+        "latitude": 37.33141864585822,
+        "longitude": -121.86217910582428,
+        "phone": "N/A",
+        "open_times": [
+          { 
+            "days": ["Sunday", "Thursday", "Saturday"],
+            "start": "11:30",
+            "end": "13:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 60,
+          "max_age": 120
+        },
+        "disability_exceptions": {
+          "min_age": 55,
+          "max_age": 120
+        },
+        "languages_spoken": ["English", "Mandarin", "Vietnamese"],
+        "distribution_access": "Walk Up Only",
+        "meal_type": "Ready-To-Eat Meals (Eat On-Site)",
+        "special_info": "SCC residents only. Vegan meals available. Hours may vary; advance meal reservation may be required. Contact site for more information.",
+        "first_visit_requirements": "Bring identification.",
+        "notes": "Walk past the Di Lac gate; meals are distributed in front of the doors on the left. Weekly distribution."
+    },
+    { 
+        "name": "The Salvation Army - Emmanuel House",
+        "category": "food",
+        "address": "405 N. 4th St., San Jose, CA 95112",
+        "latitude": 37.34431230924576,
+        "longitude": -121.89268120397088,
+        "phone": "N/A",
+        "open_times": [
+          { 
+            "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+            "start": "09:00",
+            "end": "12:00"
+          },
+          { 
+            "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+            "start": "17:15",
+            "end": "18:30"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "languages_spoken": ["English", "Spanish"],
+        "distribution_access": "Drive Thru with Walk Up",
+        "meal_type": "Ready-To-Eat Meals",
+        "special_info": "Register on site. If driving, stay in your vehicle and park while staff loads your trunk.",
+        "first_visit_requirements": "Bring identification.",
+        "pickup_for_others": "Allowed. You may pick up food for neighbors or family members.",
+        "other_services": [
+          "Clothes",
+          "Diapers",
+          "Formula",
+          "Homeless Support",
+          "Housing Assistance",
+          "Utilities Assistance",
+          "Sleeping Bags/Blankets"
+        ],
+        "notes": "Daily meal services with both morning and evening shifts."
+    },
+    {
+        "name": "Cityteam San Jose - Dining Hall",
+        "category": "food",
+        "address": "580 Charles Street, San Jose, CA 95112",
+        "latitude": 37.365236714216486,
+        "longitude": -121.89630061931427,
+        "phone": "N/A",
+        "open_times": [
+          { 
+            "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "start": "17:00",
+            "end": "17:30"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "notes": "Provides ready-to-eat meals daily."
+    },
+    {
+        "name": "Berryessa Supportive Parking",
+        "category": "shelter",
+        "address": "1300 Berryessa Rd, San Jose, CA",
+        "latitude": 37.36665961880542,
+        "longitude": -121.8807548174615,
+        "phone": "N/A",
+        "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals/Couples",
+        "operator": "WeHope",
+        "developer": "Azul Works",
+        "property_owner": "Private",
+        "open_date": "2025-03-04",
+        "notes": "Supportive parking program for individuals and couples."
+    },
+    {
+        "name": "Mabury Interim Housing",
+        "category": "shelter",
+        "address": "Mabury Road, San Jose, CA",
+        "latitude": 37.372269935113515,
+        "longitude": -121.86185939047785,
+        "phone": "N/A",
+        "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals",
+        "operator": "HomeFirst",
+        "developer": "Habitat for Humanity East Bay/ Silicon Valley",
+        "property_owner": "VTA",
+        "open_date": "2020-01-03",
+        "notes": "Interim housing near Berryessa BART station."
+    },
+    {
+        "name": "Felipe Interim Housing",
+        "category": "shelter",
+        "address": "Felipe Avenue, San Jose, CA",
+        "latitude": 37.335649359549784,
+        "longitude": -121.85070858862693,
+        "phone": "N/A",
+        "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals",
+        "operator": "HomeFirst",
+        "developer": "Habitat for Humanity East Bay/ Silicon Valley",
+        "property_owner": "Caltrans",
+        "open_date": "2021-02-10",
+        "notes": "Interim housing near Caltrans right of way."
+    },
+    {
+        "name": "Guadalupe Interim Housing",
+        "category": "shelter",
+        "address": "211 Asbury Street, San Jose, CA",
+        "latitude": 37.34869566779707,
+        "longitude": -121.90516827513464,
+        "phone": "N/A",
+        "open_times": 
+        [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals",
+        "operator": "LifeMoves",
+        "developer": "DevCon",
+        "property_owner": "City-Owned",
+        "open_date": "2023-04-25",
+        "notes": "Interim housing near Guadalupe River Park."
+    },
+    {
+        "name": "Plaza Hotel",
+        "category": "shelter",
+        "address": "96 S Almaden, San Jose, CA",
+        "latitude": 37.33327094461657,
+        "longitude": -121.89235587565784,
+        "phone": "N/A",
+        "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals",
+        "operator": "Abode Services",
+        "developer": "Abode Services",
+        "property_owner": "City-Owned",
+        "open_date": "2018-01-01",
+        "notes": "Permanent supportive housing at Plaza Hotel."
+    },
+    {
+          "name": "Arena Hotel",
+          "category": "shelter",
+          "address": "817 The Alameda, San Jose, CA",
+          "latitude": 37.33242095047179,
+          "longitude": -121.90642877698812,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+          },
+          "target_population": "Individuals/Couples",
+          "operator": "Urban Housing Communities",
+          "developer": "Urban Housing Communities",
+          "property_owner": "City-Owned",
+          "open_date": "2023-08-23",
+          "notes": "Permanent supportive housing at Arena Hotel."
+    },
+    {
+          "name": "Pacific Motor Inn",
+          "category": "shelter",
+          "address": "455 S Second St, San Jose, CA",
+          "latitude": 37.329716750689926,
+          "longitude": -121.8847059616438,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+          },
+          "target_population": "Individuals",
+          "operator": "PATH",
+          "developer": "PATH Ventures",
+          "property_owner": "City-Owned",
+          "open_date": "2024-09-30",
+          "notes": "Permanent supportive housing at Pacific Motor Inn."
+    },
+    {
+          "name": "Evans Lane Interim Housing",
+          "category": "shelter",
+          "address": "2078 Evans Lane, San Jose, CA",
+          "latitude": 37.296389165796306,
+          "longitude": -121.87584000397317,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 0,
+            "max_age": 120
+          },
+          "target_population": "Families",
+          "operator": "Abode Services & PATH",
+          "developer": "Habitat for Humanity East Bay/ Silicon Valley",
+          "property_owner": "City-Owned",
+          "open_date": "2021-03-27",
+          "notes": "Interim housing for families at Evans Lane."
+    },
+    {
+          "name": "Branham-Monterey Interim Housing",
+          "category": "shelter",
+          "address": "1 Branham Lane, San Jose, CA",
+          "latitude": 37.26716801338682,
+          "longitude": -121.82321271931896,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 0,
+            "max_age": 120
+          },
+          "target_population": "Adult Individuals/Multi-Generational Families",
+          "operator": "LifeMoves",
+          "developer": "LifeMoves/DevCon",
+          "property_owner": "City-Owned",
+          "open_date": "2025-02-19",
+          "notes": "Interim housing for individuals and families at Branham & Monterey."
+    },
+    {
+          "name": "Rue Ferrari Interim Housing",
+          "category": "shelter",
+          "address": "5898 Rue Ferrari, San Jose, CA",
+          "latitude": 37.24763588584838,
+          "longitude": -121.77743433466432,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+          },
+          "target_population": "Individuals/Couples",
+          "operator": "HomeFirst",
+          "developer": "Habitat for Humanity East Bay/ Silicon Valley",
+          "property_owner": "Caltrans",
+          "open_date": "2021-01-19",
+          "notes": "Interim housing at Rue Ferrari and 101."
+    },
+    {
+          "name": "Bernal Interim Housing",
+          "category": "shelter",
+          "address": "6066 Monterey Road, San Jose, CA",
+          "latitude": 37.23973975772116,
+          "longitude": -121.77324393281202,
+          "phone": "N/A",
+          "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+          ],
+          "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+          },
+          "target_population": "Individuals",
+          "operator": "HomeFirst",
+          "developer": "Habitat for Humanity East Bay/ Silicon Valley",
+          "property_owner": "City-Owned",
+          "open_date": "2020-09-02",
+          "notes": "Interim housing at Monterey & Bernal."
+    },
+    {
+        "name": "Santa Teresa Supportive Parking",
+        "category": "shelter",
+        "address": "6500 Santa Teresa Boulevard, San Jose, CA",
+        "latitude": 37.237375054204236,
+        "longitude": -121.79054328863151,
+        "phone": "N/A",
+        "open_times": [
+            {
+              "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              "start": "00:00",
+              "end": "23:59"
+            }
+        ],
+        "age_restriction": {
+            "min_age": 18,
+            "max_age": 120
+        },
+        "target_population": "Individuals/Couples",
+        "operator": "LifeMoves",
+        "developer": "Golden Bay Construction",
+        "property_owner": "VTA",
+        "open_date": "2023-07-27",
+        "notes": "Supportive parking program for individuals and couples."
+    },
+    {
+        "name": "Valley Health Center Alexian",
+        "category": "healthcare",
+        "address": "2101 Alexian Drive, Suite D, San Jose, CA 95116",
+        "latitude": 37.35985732644377,
+        "longitude": -121.84833107513406,
+        "phone": "408-885-5000",
+        "open_times": [
+          {
+            "days": ["Monday", "Tuesday", "Thursday", "Friday"],
+            "start": "08:30",
+            "end": "16:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "services": [
+          "Primary Care",
+          "Social Work",
+          "Psychiatry",
+          "Psychology",
+          "Gender Health Clinic",
+          "Legal Services",
+          "General Assistance Services"
+        ],
+        "notes": "Walk-in clinic providing same-day appointments for primary care, mental health, and gender-affirming services."
+    },
+    {
+        "name": "Valley Health Center HomeFirst Shelter",
+        "category": "healthcare",
+        "address": "2011 Little Orchard Street, San Jose, CA 95125",
+        "latitude": 37.30389704215511,
+        "longitude": -121.87060048019865,
+        "phone": "408-885-5000",
+        "open_times": [
+          {
+            "days": ["Monday", "Wednesday", "Thursday"],
+            "start": "08:30",
+            "end": "17:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "services": [
+          "Primary Care",
+          "Social Work",
+          "Psychiatry",
+          "Psychology"
+        ],
+        "notes": "Healthcare services available to both residents and non-residents of the HomeFirst shelter."
+    },
+    {
+        "name": "Hope Clinic",
+        "category": "healthcare",
+        "address": "725 East Santa Clara Street, Suite 300, San Jose, CA 95112",
+        "latitude": 37.34362079994305,
+        "longitude": -121.87587711931529,
+        "phone": "408-794-0570",
+        "open_times": [
+          {
+            "days": ["Monday", "Wednesday", "Thursday", "Friday"],
+            "start": "08:30",
+            "end": "17:00"
+          },
+          {
+            "days": ["Tuesday"],
+            "start": "10:00",
+            "end": "17:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "services": [
+          "Primary Care",
+          "Mental Health",
+          "Social Services",
+          "Obstetrics (Tuesdays only)"
+        ],
+        "notes": "Clinic for people in permanent supportive housing or extremely low-income residents."
+    },
+    {
+        "name": "Re-Entry Mobile Health Center",
+        "category": "healthcare",
+        "address": "151 West Mission Street, San Jose, CA 95110",
+        "latitude": 37.3505931777644,
+        "longitude": -121.9041113328067,
+        "phone": "888-334-1000",
+        "open_times": [
+          {
+            "days": ["Monday", "Wednesday", "Friday"],
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 18,
+          "max_age": 120
+        },
+        "services": [
+          "Primary Care",
+          "Psychiatry",
+          "Social Work",
+          "Case Management",
+          "Mental Health Counseling",
+          "Substance Use Services"
+        ],
+        "notes": "Mobile health center for people recently released from prison or jail."
+    },
+    {
+        "name": "Senter Road Mobile Health Center",
+        "category": "healthcare",
+        "address": "1919 Senter Road, San Jose, CA 95112",
+        "latitude": 37.31379109369328,
+        "longitude": -121.85629226164458,
+        "phone": "888-334-1000",
+        "open_times": [
+          {
+            "days": ["Tuesday"],
+            "start": "09:00",
+            "end": "15:30"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 0,
+          "max_age": 120
+        },
+        "services": [
+          "Primary Care",
+          "Social Work"
+        ],
+        "notes": "Mobile healthcare services outside Santa Clara County General Assistance Office."
+    },
+    {
+        "name": "Medical Respite Program",
+        "category": "healthcare",
+        "address": "55 Old Tully Road, San Jose, CA 95111",
+        "latitude": 37.30200565496052,
+        "longitude": -121.85765137328404,
+        "phone": "888-334-1000",
+        "open_times": [
+          {
+            "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "start": "08:00",
+            "end": "17:00"
+          }
+        ],
+        "age_restriction": {
+          "min_age": 18,
+          "max_age": 120
+        },
+        "services": [
+          "Post-Hospitalization Recovery",
+          "Primary Care",
+          "Mental Health Counseling",
+          "Substance Use Support",
+          "Social Services"
+        ],
+        "notes": "Provides temporary medical respite beds and services for homeless individuals after hospitalization."
+    }
+]
