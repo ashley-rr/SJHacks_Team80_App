@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Connect ♥️ Care
 
-## Getting Started
+A bilingual (English and Spanish) mobilized web app that centralizes food, shelter, and healthcare resources — accessible anytime, anywhere.
+*	**Backend API** serving real-time English and Spanish resource datasets
+* **Category filtering** to quickly find food, shelter, or medical services
+* **Mobile-friendly design** for accessibility on the go
+*	**Faster access:** Users can instantly find available resources without navigating through external links
 
-First, run the development server:
+Connect Care increases access to essential services for underserved, multilingual communities across San José.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Next.js
+* **Backend:** Python, Flask
+* **Database:** Static JSON files (English + Spanish resource datasets)
+
+---
+## ⚙️ Setup Instructions
+### 1. Frontend (Next.js)
 ```
+cd frontend
+npm install
+npm run dev
+```
+Visit http://localhost:3000 to see the web app.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Backend (Flask API)
+```
+cd backend
+python3 -m venv venv
+source venv/bin/activate
+pip install flask
+python app.py
+```
+The backend will run on http://127.0.0.1:5000.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
+## 🌐 API Endpoints
+| Route  | Method | Description |
+| ------------- | ------------- | ------------- |
+| /resources  | GET  | Returns all resources (default in English) |
+| /resources?lang=es | GET  | Returns all resources in Spanish |
+| /resources?category=food | GET | Filters resources by category |
+| /health | GET | Simple health check to confirm backend is running |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Example:**
+```http://127.0.0.1:5000/resources?lang=es&category=shelter```
 
-## Learn More
+---
+## About the Data 🏙️
+This project used information from: 
+* [City of San José: Homelessness Resources](https://www.sanjoseca.gov/your-government/departments-offices/housing/homelessness-response/homeless-families-individuals)
+* [Second Harvest of Silicon Valley](https://www.shfb.org/get-food/?filter_mode=distribution/)
+* [Interim Housing Communities](https://experience.arcgis.com/experience/f523b39c39c74af48890bcf0672e2457)
+* [Valley Homeless Healthcare Program](https://scvmc.scvh.org/hospitals-clinics/valley-homeless-health-care-program-vhhp/about-us)
 
-To learn more about Next.js, take a look at the following resources:
+Instead of requiring users to visit **multiple external websites**, Connect Care brings everything together — offering **real-time**, **filtered**, and **bilingual** resource access.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
+## 👩‍💻 Meet the Team
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Name  | Role | Focus |
+| ------------- | ------------- | ------------- |
+| Ashley Roman  | [@ashley-rr](https://github.com/ashley-rr) | Frontend Developer  | Web design, UI/UX, React, Next.js |
+| Julia Husainzada | [@juliahusainzada](https://github.com/juliahusainzada) | Backend Developer, Data Researcher  | Flask API, Database Management, Resource collection, Spanish translations |
+| Meera Bhaskarbhai Vyas | [@meeraa-vyas](https://www.linkedin.com/in/meeraa-vyas/) | Designer | Visual design, User experience |
 
-## Deploy on Vercel
+---
+## 📚 Additional Notes
+- Built during SJHacks 2024 🛠️
+- Focused on real-world community impact 🌎
+- Powered by teamwork, technology, and heart 🫶
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
