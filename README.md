@@ -10,7 +10,7 @@ Connect Care increases access to essential services for underserved, multilingua
 
 ---
 ## 🛠️ Tech Stack
-* **Frontend:** React.js, Next.js
+* **Frontend:** Javascript, Typescript, CSS, React.js, Next.js
 * **Backend:** Python, Flask
 * **Database:** Static JSON files (English + Spanish resource datasets)
 
