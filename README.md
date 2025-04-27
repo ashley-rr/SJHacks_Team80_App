@@ -47,7 +47,7 @@ The backend will run on http://127.0.0.1:5000.
 ```http://127.0.0.1:5000/resources?lang=es&category=shelter```
 
 ---
-## About the Data 🏙️
+## 🏙️ About the Data 
 This project used information from: 
 * [City of San José: Homelessness Resources](https://www.sanjoseca.gov/your-government/departments-offices/housing/homelessness-response/homeless-families-individuals)
 * [Second Harvest of Silicon Valley](https://www.shfb.org/get-food/?filter_mode=distribution/)
