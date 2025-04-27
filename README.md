@@ -63,7 +63,7 @@ Instead of requiring users to visit **multiple external websites**, Connect Care
 | ------------- | ------------- | ------------- |
 | Ashley Roman  | [@ashley-rr](https://github.com/ashley-rr) | Frontend Developer  | Web design, UI/UX, React, Next.js |
 | Julia Husainzada | [@juliahusainzada](https://github.com/juliahusainzada) | Backend Developer, Data Researcher  | Flask API, Database Management, Resource collection, Spanish translations |
-| Meera Bhaskarbhai Vyas | [@meeraa-vyas](https://www.linkedin.com/in/meeraa-vyas/) | Designer | Visual design, User experience |
+| Meera Bhaskarbhai Vyas | [@meeraa-vyas](https://www.linkedin.com/in/meeraa-vyas/) | Designer | Visual design, Figma | User experience |
 
 ---
 ## 📚 Additional Notes
