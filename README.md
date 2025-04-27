@@ -1,6 +1,6 @@
 # Connect ♥️ Care
 
-A bilingual (English and Spanish) mobilized web app that centralizes food, shelter, and healthcare resources — accessible anytime, anywhere.
+A bilingual (English and Spanish) mobilized web app that centralizes food, shelter, and healthcare resources for the City of San Jose — accessible anytime, anywhere.
 *	**Backend API** serving real-time English and Spanish resource datasets
 * **Category filtering** to quickly find food, shelter, or medical services
 * **Mobile-friendly design** for accessibility on the go
