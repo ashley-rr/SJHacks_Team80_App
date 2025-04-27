@@ -16,7 +16,7 @@ Connect Care increases access to essential services for underserved, multilingua
 
 ---
 ## ⚙️ Setup Instructions
-### 1. Frontend (Next.js)
+#### 1. Frontend (Next.js)
 ```
 cd frontend
 npm install
@@ -24,7 +24,7 @@ npm run dev
 ```
 Visit http://localhost:3000 to see the web app.
 
-### 2. Backend (Flask API)
+#### 2. Backend (Flask API)
 ```
 cd backend
 python3 -m venv venv
