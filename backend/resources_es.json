@@ -1,6 +1,6 @@
 [
     {
-        "name": "Viet Tu Te Charity",
+        "name_es": "Caridad Viet Tu Te",
         "category": "food",
         "address": "765 Story Road, San Jose, CA 95122",
         "latitude": 37.33141864585822,
@@ -22,15 +22,14 @@
           "max_age": 120
         },
         "languages_spoken": ["English", "Mandarin", "Vietnamese"],
-        "distribution_access": "Walk Up Only",
-        "meal_type": "Ready-To-Eat Meals (Eat On-Site)",
-        "special_info": "SCC residents only. Vegan meals available. Hours may vary; advance meal reservation may be required. Contact site for more information.",
-        "first_visit_requirements": "Bring identification.",
+        "distribution_access_es": "Solo acceso a pie",
+        "meal_type_es": "Comidas listas para comer (en el sitio)",
+        "special_info_es": "Solo residentes de SCC. Comidas veganas disponibles. Los horarios pueden variar; puede ser necesario reservar la comida con anticipación. Comuníquese con el sitio para más información.",
         "first_visit_requirements_es": "Traiga una identificación.",
-        "notes": "Walk past the Di Lac gate; meals are distributed in front of the doors on the left. Weekly distribution."
+        "notes_es": "Pase por la puerta de Di Lac; las comidas se distribuyen frente a las puertas a la izquierda. Distribución semanal."
     },
     { 
-        "name": "The Salvation Army - Emmanuel House",
+        "name_es": "Ejército de Salvación - Casa Emmanuel",
         "category": "food",
         "address": "405 N. 4th St., San Jose, CA 95112",
         "latitude": 37.34431230924576,
@@ -53,12 +52,11 @@
           "max_age": 120
         },
         "languages_spoken": ["English", "Spanish"],
-        "distribution_access": "Drive Thru with Walk Up",
         "distribution_access_es": "Entrega desde el coche o acceso a pie",
-        "meal_type": "Ready-To-Eat Meals",
-        "special_info": "Register on site. If driving, stay in your vehicle and park while staff loads your trunk.",
-        "first_visit_requirements": "Bring identification.",
-        "pickup_for_others": "Allowed. You may pick up food for neighbors or family members.",
+        "meal_type_es": "Comidas listas para comer",
+        "special_info_es": "Regístrese en el sitio. Si maneja, permanezca en su vehículo y estacione mientras el personal carga su maletero.",
+        "first_visit_requirements_es": "Traiga una identificación.",
+        "pickup_for_others_es": "Permitido. Puede recoger comida para vecinos o miembros de la familia.",
         "other_services": [
           "Clothes",
           "Diapers",
@@ -68,10 +66,10 @@
           "Utilities Assistance",
           "Sleeping Bags/Blankets"
         ],
-        "notes": "Daily meal services with both morning and evening shifts."
+        "notes_es": "Servicios diarios de comidas con turnos por la mañana y la tarde."
     },
     {
-        "name": "Cityteam San Jose - Dining Hall",
+        "name_es": "Cityteam San José - Comedor",
         "category": "food",
         "address": "580 Charles Street, San Jose, CA 95112",
         "latitude": 37.365236714216486,
@@ -88,10 +86,10 @@
           "min_age": 0,
           "max_age": 120
         },
-        "notes": "Provides ready-to-eat meals daily."
+        "notes_es": "Proporciona comidas listas para comer todos los días."
     },
     {
-        "name": "Berryessa Supportive Parking",
+        "name_es": "Estacionamiento de Apoyo de Berryessa",
         "category": "shelter",
         "address": "1300 Berryessa Rd, San Jose, CA",
         "latitude": 37.36665961880542,
@@ -113,10 +111,10 @@
         "developer": "Azul Works",
         "property_owner": "Private",
         "open_date": "2025-03-04",
-        "notes": "Supportive parking program for individuals and couples."
+        "notes_es": "Programa de estacionamiento de apoyo para individuos y parejas."
     },
     {
-        "name": "Mabury Interim Housing",
+        "name_es": "Vivienda Provisional de Mabury",
         "category": "shelter",
         "address": "Mabury Road, San Jose, CA",
         "latitude": 37.372269935113515,
@@ -138,10 +136,10 @@
         "developer": "Habitat for Humanity East Bay/ Silicon Valley",
         "property_owner": "VTA",
         "open_date": "2020-01-03",
-        "notes": "Interim housing near Berryessa BART station."
+        "notes_es": "Vivienda provisional cerca de la estación BART de Berryessa."
     },
     {
-        "name": "Felipe Interim Housing",
+        "name_es": "Vivienda Provisional de Felipe",
         "category": "shelter",
         "address": "Felipe Avenue, San Jose, CA",
         "latitude": 37.335649359549784,
@@ -163,10 +161,10 @@
         "developer": "Habitat for Humanity East Bay/ Silicon Valley",
         "property_owner": "Caltrans",
         "open_date": "2021-02-10",
-        "notes": "Interim housing near Caltrans right of way."
+        "notes_es": "Vivienda provisional cerca del derecho de paso de Caltrans."
     },
     {
-        "name": "Guadalupe Interim Housing",
+        "name_es": "Vivienda Provisional de Guadalupe",
         "category": "shelter",
         "address": "211 Asbury Street, San Jose, CA",
         "latitude": 37.34869566779707,
@@ -189,10 +187,10 @@
         "developer": "DevCon",
         "property_owner": "City-Owned",
         "open_date": "2023-04-25",
-        "notes": "Interim housing near Guadalupe River Park."
+        "notes_es": "Vivienda provisional cerca del Parque del Río Guadalupe."
     },
     {
-        "name": "Plaza Hotel",
+        "name_es": "Hotel Plaza", 
         "category": "shelter",
         "address": "96 S Almaden, San Jose, CA",
         "latitude": 37.33327094461657,
@@ -214,10 +212,10 @@
         "developer": "Abode Services",
         "property_owner": "City-Owned",
         "open_date": "2018-01-01",
-        "notes": "Permanent supportive housing at Plaza Hotel."
+        "notes_es": "Vivienda de apoyo permanente en el Hotel Plaza."
     },
     {
-          "name": "Arena Hotel",
+          "name_es": "Hotel Arena",
           "category": "shelter",
           "address": "817 The Alameda, San Jose, CA",
           "latitude": 37.33242095047179,
@@ -239,10 +237,10 @@
           "developer": "Urban Housing Communities",
           "property_owner": "City-Owned",
           "open_date": "2023-08-23",
-          "notes": "Permanent supportive housing at Arena Hotel."
+          "notes_es": "Vivienda de apoyo permanente en el Hotel Arena."
     },
     {
-          "name": "Pacific Motor Inn",
+          "name_es": "Pacific Motor Inn",
           "category": "shelter",
           "address": "455 S Second St, San Jose, CA",
           "latitude": 37.329716750689926,
@@ -264,10 +262,10 @@
           "developer": "PATH Ventures",
           "property_owner": "City-Owned",
           "open_date": "2024-09-30",
-          "notes": "Permanent supportive housing at Pacific Motor Inn."
+          "notes_es": "Vivienda de apoyo permanente en Pacific Motor Inn."
     },
     {
-          "name": "Evans Lane Interim Housing",
+          "name_es": "Vivienda Provisional de Evans Lane",
           "category": "shelter",
           "address": "2078 Evans Lane, San Jose, CA",
           "latitude": 37.296389165796306,
@@ -289,10 +287,10 @@
           "developer": "Habitat for Humanity East Bay/ Silicon Valley",
           "property_owner": "City-Owned",
           "open_date": "2021-03-27",
-          "notes": "Interim housing for families at Evans Lane."
+          "notes_es": "Vivienda provisional para familias en Evans Lane."
     },
     {
-          "name": "Branham-Monterey Interim Housing",
+          "name_es": "Vivienda Provisional de Branham-Monterey",
           "category": "shelter",
           "address": "1 Branham Lane, San Jose, CA",
           "latitude": 37.26716801338682,
@@ -314,10 +312,10 @@
           "developer": "LifeMoves/DevCon",
           "property_owner": "City-Owned",
           "open_date": "2025-02-19",
-          "notes": "Interim housing for individuals and families at Branham & Monterey."
+          "notes_es": "Vivienda provisional para individuos y familias en Branham y Monterey."
     },
     {
-          "name": "Rue Ferrari Interim Housing",
+          "name_es": "Vivienda Provisional de Rue Ferrari",
           "category": "shelter",
           "address": "5898 Rue Ferrari, San Jose, CA",
           "latitude": 37.24763588584838,
@@ -339,10 +337,10 @@
           "developer": "Habitat for Humanity East Bay/ Silicon Valley",
           "property_owner": "Caltrans",
           "open_date": "2021-01-19",
-          "notes": "Interim housing at Rue Ferrari and 101."
+          "notes_es": "Vivienda provisional en Rue Ferrari y la autopista 101."
     },
     {
-          "name": "Bernal Interim Housing",
+          "name_es": "Vivienda Provisional de Bernal",
           "category": "shelter",
           "address": "6066 Monterey Road, San Jose, CA",
           "latitude": 37.23973975772116,
@@ -364,10 +362,10 @@
           "developer": "Habitat for Humanity East Bay/ Silicon Valley",
           "property_owner": "City-Owned",
           "open_date": "2020-09-02",
-          "notes": "Interim housing at Monterey & Bernal."
+          "notes_es": "Vivienda provisional en Monterey y Bernal."
     },
     {
-        "name": "Santa Teresa Supportive Parking",
+        "name_es": "Estacionamiento de Apoyo Santa Teresa",
         "category": "shelter",
         "address": "6500 Santa Teresa Boulevard, San Jose, CA",
         "latitude": 37.237375054204236,
@@ -389,10 +387,10 @@
         "developer": "Golden Bay Construction",
         "property_owner": "VTA",
         "open_date": "2023-07-27",
-        "notes": "Supportive parking program for individuals and couples."
+        "notes_es": "Programa de estacionamiento de apoyo para individuos y parejas."
     },
     {
-      "name": "Valley Health Center Alexian",
+      "name_es": "Centro de Salud del Valle Alexian",
       "category": "healthcare",
       "address": "2101 Alexian Drive, Suite D, San Jose, CA 95116",
       "latitude": 37.35985732644377,
@@ -418,10 +416,19 @@
         "Legal Services",
         "General Assistance Services"
       ],
-      "notes": "Walk-in clinic providing same-day appointments for primary care, mental health, and gender-affirming services."
+      "services_es": [
+        "Atención primaria",
+        "Trabajo social",
+        "Psiquiatría",
+        "Psicología",
+        "Clínica de salud de género",
+        "Servicios legales",
+        "Servicios de asistencia general"
+      ],
+      "notes_es": "Clínica de atención sin cita previa que ofrece citas el mismo día para atención primaria, salud mental y servicios de afirmación de género."
     },
     {
-      "name": "Valley Health Center HomeFirst Shelter",
+      "name_es": "Centro de Salud del Valle en Refugio HomeFirst",
       "category": "healthcare",
       "address": "2011 Little Orchard Street, San Jose, CA 95125",
       "latitude": 37.30389704215511,
@@ -438,16 +445,16 @@
         "min_age": 0,
         "max_age": 120
       },
-      "services": [
-        "Primary Care",
-        "Social Work",
-        "Psychiatry",
-        "Psychology"
+      "services_es": [
+        "Atención primaria",
+        "Trabajo social",
+        "Psiquiatría",
+        "Psicología"
       ],
-      "notes": "Healthcare services available to both residents and non-residents of the HomeFirst shelter."
+      "notes_es": "Servicios de salud disponibles para residentes y no residentes del refugio HomeFirst."
     },
     {
-      "name": "Hope Clinic",
+      "name_es": "Clínica Hope",
       "category": "healthcare",
       "address": "725 East Santa Clara Street, Suite 300, San Jose, CA 95112",
       "latitude": 37.34362079994305,
@@ -469,16 +476,16 @@
         "min_age": 0,
         "max_age": 120
       },
-      "services": [
-        "Primary Care",
-        "Mental Health",
-        "Social Services",
-        "Obstetrics (Tuesdays only)"
+      "services_es": [
+        "Atención primaria",
+        "Salud mental",
+        "Servicios sociales",
+        "Obstetricia (solo martes)"
       ],
-      "notes": "Clinic for people in permanent supportive housing or extremely low-income residents."
+      "notes_es": "Clínica para personas en viviendas de apoyo permanente o residentes de muy bajos ingresos."
   },
   {
-      "name": "Re-Entry Mobile Health Center",
+      "name_es": "Centro de Salud Móvil para Reintegración",
       "category": "healthcare",
       "address": "151 West Mission Street, San Jose, CA 95110",
       "latitude": 37.3505931777644,
@@ -495,18 +502,18 @@
         "min_age": 18,
         "max_age": 120
       },
-      "services": [
-        "Primary Care",
-        "Psychiatry",
-        "Social Work",
-        "Case Management",
-        "Mental Health Counseling",
-        "Substance Use Services"
+      "services_es": [
+        "Atención primaria",
+        "Psiquiatría",
+        "Trabajo social",
+        "Gestión de casos",
+        "Consejería de salud mental",
+        "Servicios de uso de sustancias"
       ],
-      "notes": "Mobile health center for people recently released from prison or jail."
+      "notes_es": "Centro de salud móvil para personas recién liberadas de prisión o cárcel."
   },
   {
-      "name": "Senter Road Mobile Health Center",
+      "name_es": "Centro de Salud Móvil en Senter Road",
       "category": "healthcare",
       "address": "1919 Senter Road, San Jose, CA 95112",
       "latitude": 37.31379109369328,
@@ -523,14 +530,14 @@
         "min_age": 0,
         "max_age": 120
       },
-      "services": [
-        "Primary Care",
-        "Social Work"
+      "services_es": [
+        "Atención primaria",
+        "Trabajo social"
       ],
-      "notes": "Mobile healthcare services outside Santa Clara County General Assistance Office."
+      "notes_es": "Servicios móviles de atención médica fuera de la Oficina de Asistencia General del Condado de Santa Clara."
   },
   {
-      "name": "Medical Respite Program",
+      "name_es": "Programa de Recuperación Médica",
       "category": "healthcare",
       "address": "55 Old Tully Road, San Jose, CA 95111",
       "latitude": 37.30200565496052,
@@ -547,13 +554,13 @@
         "min_age": 18,
         "max_age": 120
       },
-      "services": [
-        "Post-Hospitalization Recovery",
-        "Primary Care",
-        "Mental Health Counseling",
-        "Substance Use Support",
-        "Social Services"
+      "services_es": [
+        "Recuperación posterior a la hospitalización",
+        "Atención primaria",
+        "Consejería de salud mental",
+        "Apoyo para el uso de sustancias",
+        "Servicios sociales"
       ],
-      "notes": "Provides temporary medical respite beds and services for homeless individuals after hospitalization."
+      "notes_es": "Proporciona camas de recuperación médica temporal y servicios para personas sin hogar después de la hospitalización."
   }
 ]
