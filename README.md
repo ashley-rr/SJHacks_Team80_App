@@ -67,7 +67,7 @@ Instead of requiring users to visit **multiple external websites**, Connect Care
 
 ---
 ## 📚 Additional Notes
-- Built during SJHacks 2024 🛠️
+- Built during SJHacks 2025 🛠️
 - Focused on real-world community impact 🌎
 - Powered by teamwork, technology, and heart 🫶
 
